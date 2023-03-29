@@ -63,7 +63,7 @@ body {
 .e, .f, .g {
  flex: 1;
  }
- .inner-inner-container{
+ .inner-container {
   display: flex;
   gap: 30px;
   flex: 1;
